@@ -1,0 +1,1 @@
+#all about installing Python and Pycharm - already using PyCharm.
