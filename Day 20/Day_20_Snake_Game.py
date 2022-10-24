@@ -1,31 +1,26 @@
 import random
+import time
 
 from turtle import Screen, Turtle
+from Snake import Snake
 
-snake = Turtle()
 
-def spawnFood():
-    x_pos = random.randint()
-
-def snake_setup():
-    snake.penup()
-    snake.shape("circle")
-    snake.pensize(width=5)
-    snake.color("white")
-    snake.fillcolor("white")
-    snake.home()
-    snake.pendown()
-
-def move_up():
-    snake.heading(90)
-    snake.forward(500)
-
-snake_setup()
 screen = Screen()
 screen.listen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
+screen.title("My Snake Game")
+screen.tracer(0)
 
-screen.onkey(move_up, key="w")
+snake = Snake()
+
+segments = []
+
+game_is_on = True
+
+while game_is_on:
+    screen.update()
+    time.sleep(0.1)
+    snake.move()
 
 screen.exitonclick()

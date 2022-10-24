@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92b27699-3715-43ac-aa60-2e0afc4a6fea" name="Changes" comment="New Codes">
-      <change beforePath="$PROJECT_DIR$/.idea/100DaysOfPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100DaysOfPython.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 18/Day_18_Spirograph.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 18/Day_18_Spirograph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 20/Day_20_Snake_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 20/Day_20_Snake_Game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,19 +124,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="color_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Snake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 18" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 20" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 18/color_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 20/Snake.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,16 +149,16 @@
       <item itemvalue="Python.Day_19_turtle_drawing" />
       <item itemvalue="Python.Day_19_turtle_race" />
       <item itemvalue="Python.Day_20_Snake_Game" />
-      <item itemvalue="Python.color_list" />
+      <item itemvalue="Python.Snake" />
       <item itemvalue="Python.Day_18_colorgram" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Day_20_Snake_Game" />
+        <item itemvalue="Python.Snake" />
         <item itemvalue="Python.Day_19_turtle_race" />
         <item itemvalue="Python.Day_19_turtle_drawing" />
         <item itemvalue="Python.Day_18_colorgram" />
-        <item itemvalue="Python.color_list" />
       </list>
     </recent_temporary>
   </component>
