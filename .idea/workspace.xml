@@ -4,6 +4,7 @@
     <list default="true" id="92b27699-3715-43ac-aa60-2e0afc4a6fea" name="Changes" comment="New Codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 20/Day_20_Snake_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 20/Day_20_Snake_Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 20/Snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 20/Snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
