@@ -6,7 +6,6 @@ COLORS = ["red", "orange", "yellow", "green", "blue", "purple"]
 STARTING_MOVE_DISTANCE = 5
 MOVE_INCREMENT = 10
 
-
 class CarManager(Turtle):
     # pass
     def __init__(self):
@@ -18,4 +17,9 @@ class CarManager(Turtle):
     def spawn_cars(self):
         self.color(random.choice(COLORS))
         self.penup()
-        self.goto(0, 0)
+        self.goto(300, 0)
+
+    def motion(self, score_value):
+        x_new = self.xcor() - ( STARTING_MOVE_DISTANCE + ( MOVE_INCREMENT * score_value ) )
+        self.penup()
+        self.goto(x_new, self.ycor())

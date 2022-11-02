@@ -19,9 +19,9 @@ class Player(Turtle):
         new_y = self.ycor() + 10
         self.goto(self.xcor(), new_y)
 
-    def go_down(self):
-        new_y = self.ycor() - 10
-        self.goto(self.xcor(), new_y)
+    # def go_down(self):
+    #     new_y = self.ycor() - 10
+    #     self.goto(self.xcor(), new_y)
 
     def resetpos(self):
         self.goto(STARTING_POSITION)
