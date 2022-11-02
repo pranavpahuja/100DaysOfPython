@@ -24,3 +24,10 @@ class Scoreboard(Turtle):
 
     def increase_score(self):
         self.score += 1
+
+    def end_game(self):
+        end_game_msg = Turtle()
+        end_game_msg.hideturtle()
+        end_game_msg.penup()
+        end_game_msg.goto(0, 0)
+        end_game_msg.write("GAME OVER.", align="center", font=("Courier", 20, "normal"))
