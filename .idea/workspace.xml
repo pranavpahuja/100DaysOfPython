@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="92b27699-3715-43ac-aa60-2e0afc4a6fea" name="Changes" comment="New Codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 25 - CSV - Pandas/pandas_work.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 25 - CSV - Pandas/pandas_work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 25 - CSV - Pandas/us_states_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 25 - CSV - Pandas/us_states_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26 - List and Dictionary/nato_phoenetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 26 - List and Dictionary/nato_phoenetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26 - List and Dictionary/sq_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 26 - List and Dictionary/sq_numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +33,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/prnvp/Documents/GitHub/100DaysOfPython&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/prnvp/Documents/GitHub/100DaysOfPython/Day 29 - Password Manager GUI",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Python.filter_numbers">
-    <configuration name="filter_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day 29 - Password Manager GUI" />
+      <recent name="$PROJECT_DIR$/Day 28 - Pomodoro Timer" />
+      <recent name="$PROJECT_DIR$/Day 26 - List and Dictionary" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="argss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26 - List and Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 27 - Tkinter - GUI" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26 - List and Dictionary/filter_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 27 - Tkinter - GUI/argss.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nato_phoenetic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26 - List and Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 27 - Tkinter - GUI" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26 - List and Dictionary/nato_phoenetic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 27 - Tkinter - GUI/basics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sq_logic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 25 - CSV - Pandas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 29 - Password Manager GUI" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 25 - CSV - Pandas/sq_logic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 29 - Password Manager GUI/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sq_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26 - List and Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 28 - Pomodoro Timer" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26 - List and Dictionary/sq_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 28 - Pomodoro Timer/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="us_states_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="miles_to_km" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 25 - CSV - Pandas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 27 - Tkinter - GUI" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 25 - CSV - Pandas/us_states_game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 27 - Tkinter - GUI/miles_to_km.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,19 +160,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.filter_numbers" />
-      <item itemvalue="Python.nato_phoenetic" />
-      <item itemvalue="Python.sq_logic" />
-      <item itemvalue="Python.sq_numbers" />
-      <item itemvalue="Python.us_states_game" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.miles_to_km" />
+      <item itemvalue="Python.argss" />
+      <item itemvalue="Python.basics" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.filter_numbers" />
-        <item itemvalue="Python.sq_numbers" />
-        <item itemvalue="Python.nato_phoenetic" />
-        <item itemvalue="Python.us_states_game" />
-        <item itemvalue="Python.sq_logic" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.miles_to_km" />
+        <item itemvalue="Python.argss" />
+        <item itemvalue="Python.basics" />
       </list>
     </recent_temporary>
   </component>
