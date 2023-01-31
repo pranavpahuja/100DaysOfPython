@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="92b27699-3715-43ac-aa60-2e0afc4a6fea" name="Changes" comment="New Codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 25 - CSV - Pandas/us_states_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 25 - CSV - Pandas/us_states_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 26 - List and Dictionary/nato_phoenetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 26 - List and Dictionary/nato_phoenetic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 26 - List and Dictionary/sq_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 26 - List and Dictionary/sq_numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +30,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/prnvp/Documents/GitHub/100DaysOfPython/Day 29 - Password Manager GUI",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/prnvp/Documents/GitHub/100DaysOfPython/Day 29 - Password Manager GUI&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Day 29 - Password Manager GUI" />
@@ -160,11 +157,11 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.argss" />
+      <item itemvalue="Python.basics" />
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.miles_to_km" />
-      <item itemvalue="Python.argss" />
-      <item itemvalue="Python.basics" />
     </list>
     <recent_temporary>
       <list>
