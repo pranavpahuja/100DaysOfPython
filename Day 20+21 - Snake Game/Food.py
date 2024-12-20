@@ -1,4 +1,5 @@
 import random
+
 from turtle import Turtle
 
 class Food(Turtle):
@@ -15,6 +16,7 @@ class Food(Turtle):
         self.goto(random_x,random_y)
         #self.food_eaten()
 
+#Refresh
     def refresh(self):
         random_x = random.randint(-280, 280)
         random_y = random.randint(-280, 280)
